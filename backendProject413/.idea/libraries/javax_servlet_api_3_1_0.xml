@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="javax.servlet-api-3.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JARFILE/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-client-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-http-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-io-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-security-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-server-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-servlet-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-util-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-webapp-9.4.12.v20180830.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARFILE/jetty-xml-9.4.12.v20180830.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

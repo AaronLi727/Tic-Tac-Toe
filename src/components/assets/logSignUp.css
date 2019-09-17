@@ -1,0 +1,14 @@
+.logSignUp-div {
+    height: 300px;
+    width: 400px;
+    border: 1px solid black;
+    position: absolute;
+    right: 0px; left: 0px;
+    top: 0px; bottom: 0px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+Nav {
+    color: red;
+}

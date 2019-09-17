@@ -1,0 +1,12 @@
+.Rooms {
+    box-sizing: content-box;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border: solid #5B6DCD 5px;
+    margin: 20px;
+    padding: 5px;
+}
+.Row {
+    width: 100px
+}
